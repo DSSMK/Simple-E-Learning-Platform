@@ -1,0 +1,4 @@
+
+body { font-family: 'Poppins', sans-serif; background: #f0f8ff; padding-top: 70px; }
+.hero { background: linear-gradient(to right, #fe4faf, #00f2fe); color: white; padding: 100px 20px; text-align: center; }
+footer { background: #222; color: #aaa; padding: 20px; text-align: center; margin-top: 50px; }
